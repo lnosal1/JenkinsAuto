@@ -1,0 +1,2 @@
+# JenkinsAuto
+Automated testing repository
